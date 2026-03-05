@@ -1,0 +1,33 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "e6ef64f4a969",
+  "session_id": "d0e4b163-95f6-4f45-b849-db83f52a3704",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-05T07:07:30.187848Z",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "client.py",
+    "database.py",
+    "models.py",
+    "seed_data.py"
+  ],
+  "agent": "Gemini CLI",
+  "turn_id": "eef28c28d41d",
+  "token_usage": {
+    "input_tokens": 138906,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 106717,
+    "output_tokens": 3401,
+    "api_call_count": 14
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-05T07:07:30.153547Z",
+    "agent_lines": 146,
+    "human_added": 3,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 149,
+    "agent_percentage": 97.98657718120806
+  }
+}
